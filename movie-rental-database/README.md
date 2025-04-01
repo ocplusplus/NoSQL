@@ -91,9 +91,3 @@ File Structure
 - CSV Files: Data files for movies, customers, and rentals in CSV format.
 - JSON files: Data files for movies, customers, and rentals in JSON format
 
----
-
-Authors
-
-Xuyao Ross Cheng, Olivia Costantino
-Email: xcheng37@myseneca.ca, ocostantino1@myseneca.ca
